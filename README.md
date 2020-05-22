@@ -9,7 +9,7 @@
 ## How to use
 
 ```
-	git clone https://github.com/nomspls/imdb
+	git clone https://github.com/nomspls/imdb.git
 	cd imdb
 	pip install -r requirements.txt # Kivy, pandas. (use conda if prefered)
 	python update.py # Only needs to be run once or whenever you want to update
